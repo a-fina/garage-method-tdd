@@ -1,0 +1,17 @@
+{
+  "name": "ibm-tdd",
+  "version": "1.0.0",
+  "description": "Test Driven Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "alessio.finamore",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
